@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Version Control with GIT",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "chuckbutler",
+    "githubRepository": "git@github.com:chuckbutler/wplug-GIT-VERSION-CONTROL.git"
+  }
+}
