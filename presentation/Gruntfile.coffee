@@ -98,7 +98,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:chuckbutler/git@github.com:chuckbutler/wplug-GIT-VERSION-CONTROL.git.git'
+                    remote: 'git@github.com:chuckbutler/wplug-git.git'
                     branch: 'gh-pages'
         
 
