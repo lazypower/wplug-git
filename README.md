@@ -13,5 +13,5 @@ To modify for your own uses:
 
 to Add Slides:
 
-   yo reveal:slide "Topic" --markdown --notes
+    yo reveal:slide "Topic" --markdown --notes
  
