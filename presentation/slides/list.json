@@ -7,6 +7,7 @@
     "distributed.md",
     "git-intro.md",
     "git-started.md",
+    "introduce-yourself.md",
     "git-init.md",
     "git-status.md",
     "git-workflow.md",
@@ -16,5 +17,13 @@
     "git-commit-messages-deux.md",
     "git-remotes.md",
     "git-remote-creation.md",
-    "git-remote-setup.md"
+    "git-remote-setup.md",
+    "github-repository.md",
+    "git-x-ray.md",
+    "git-branch-merge.md",
+    "git-branches.md",
+    "adding-shortcuts.md",
+    "merging.md",
+    "handling-conflicts.md",
+    "wrap-up.md"
 ]

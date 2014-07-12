@@ -9,6 +9,7 @@
 - Most popular DVCS
 - Github is the largest code warehouse on the planet
 - Private trackers are available (gitlab, gitorious, git-daemon)
+- Governments use GitHub to track legal documents
 
 note:
     Put your speaker notes here.
