@@ -1,1 +1,8 @@
-["index.md"]
+[
+    "index.md",
+    "in-the-beginning.md",
+    "why.md",
+    "foundations.md",
+    "centralized.md",
+    "distributed.md"
+]
