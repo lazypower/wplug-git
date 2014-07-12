@@ -2,7 +2,19 @@
     "index.md",
     "in-the-beginning.md",
     "why.md",
-    "foundations.md",
+    "local.md",
     "centralized.md",
-    "distributed.md"
+    "distributed.md",
+    "git-intro.md",
+    "git-started.md",
+    "git-init.md",
+    "git-status.md",
+    "git-workflow.md",
+    "git-untracked-to-added.md",
+    "git-added-to-committed.md",
+    "git-commit-messages.md",
+    "git-commit-messages-deux.md",
+    "git-remotes.md",
+    "git-remote-creation.md",
+    "git-remote-setup.md"
 ]

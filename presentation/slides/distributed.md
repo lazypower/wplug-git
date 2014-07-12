@@ -1,7 +1,4 @@
-##  Modern Flavors
----
-
-#### Distributed Version Control Systems
+## Distributed VCS
 
 
 The third generation tools allow merge and commit to be separated.
